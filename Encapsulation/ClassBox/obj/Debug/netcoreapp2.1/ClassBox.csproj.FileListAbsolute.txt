@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\Encapsulation\ClassBox\bin\Debug\netcoreapp2.1\ClassBox.deps.json
+C:\Users\Dell\source\repos\Encapsulation\ClassBox\bin\Debug\netcoreapp2.1\ClassBox.runtimeconfig.json
+C:\Users\Dell\source\repos\Encapsulation\ClassBox\bin\Debug\netcoreapp2.1\ClassBox.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Encapsulation\ClassBox\bin\Debug\netcoreapp2.1\ClassBox.dll
+C:\Users\Dell\source\repos\Encapsulation\ClassBox\bin\Debug\netcoreapp2.1\ClassBox.pdb
+C:\Users\Dell\source\repos\Encapsulation\ClassBox\obj\Debug\netcoreapp2.1\ClassBox.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Encapsulation\ClassBox\obj\Debug\netcoreapp2.1\ClassBox.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Encapsulation\ClassBox\obj\Debug\netcoreapp2.1\ClassBox.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Encapsulation\ClassBox\obj\Debug\netcoreapp2.1\ClassBox.dll
+C:\Users\Dell\source\repos\Encapsulation\ClassBox\obj\Debug\netcoreapp2.1\ClassBox.pdb
