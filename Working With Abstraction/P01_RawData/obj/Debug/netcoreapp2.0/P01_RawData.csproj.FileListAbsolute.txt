@@ -1,0 +1,11 @@
+C:\Mario\Projects\Abstraction\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.deps.json
+C:\Mario\Projects\Abstraction\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.runtimeconfig.json
+C:\Mario\Projects\Abstraction\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.runtimeconfig.dev.json
+C:\Mario\Projects\Abstraction\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.dll
+C:\Mario\Projects\Abstraction\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.pdb
+C:\Mario\Projects\Abstraction\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.csprojAssemblyReference.cache
+C:\Mario\Projects\Abstraction\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.csproj.CoreCompileInputs.cache
+C:\Mario\Projects\Abstraction\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.AssemblyInfoInputs.cache
+C:\Mario\Projects\Abstraction\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.AssemblyInfo.cs
+C:\Mario\Projects\Abstraction\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.dll
+C:\Mario\Projects\Abstraction\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.pdb

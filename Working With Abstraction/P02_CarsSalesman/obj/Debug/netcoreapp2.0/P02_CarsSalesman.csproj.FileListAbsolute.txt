@@ -1,0 +1,11 @@
+C:\Mario\Projects\Abstraction\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.deps.json
+C:\Mario\Projects\Abstraction\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.runtimeconfig.json
+C:\Mario\Projects\Abstraction\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.runtimeconfig.dev.json
+C:\Mario\Projects\Abstraction\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.dll
+C:\Mario\Projects\Abstraction\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.pdb
+C:\Mario\Projects\Abstraction\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.csprojAssemblyReference.cache
+C:\Mario\Projects\Abstraction\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.csproj.CoreCompileInputs.cache
+C:\Mario\Projects\Abstraction\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.AssemblyInfoInputs.cache
+C:\Mario\Projects\Abstraction\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.AssemblyInfo.cs
+C:\Mario\Projects\Abstraction\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.dll
+C:\Mario\Projects\Abstraction\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.pdb
