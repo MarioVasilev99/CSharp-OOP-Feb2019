@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\Polimorphism\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.deps.json
+C:\Users\Dell\source\repos\Polimorphism\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.runtimeconfig.json
+C:\Users\Dell\source\repos\Polimorphism\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Polimorphism\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.dll
+C:\Users\Dell\source\repos\Polimorphism\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.pdb
+C:\Users\Dell\source\repos\Polimorphism\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Polimorphism\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Polimorphism\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Polimorphism\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Polimorphism\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.dll
+C:\Users\Dell\source\repos\Polimorphism\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.pdb

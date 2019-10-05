@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\Polimorphism\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.deps.json
+C:\Users\Dell\source\repos\Polimorphism\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.runtimeconfig.json
+C:\Users\Dell\source\repos\Polimorphism\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Polimorphism\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.dll
+C:\Users\Dell\source\repos\Polimorphism\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.pdb
+C:\Users\Dell\source\repos\Polimorphism\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Polimorphism\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Polimorphism\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Polimorphism\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Polimorphism\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.dll
+C:\Users\Dell\source\repos\Polimorphism\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.pdb
