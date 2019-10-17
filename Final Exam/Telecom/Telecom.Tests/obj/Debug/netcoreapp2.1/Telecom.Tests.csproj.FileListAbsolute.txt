@@ -1,0 +1,17 @@
+C:\Mario\Programming\C# OOP EXAM\Telecom\Telecom.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Mario\Programming\C# OOP EXAM\Telecom\Telecom.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Mario\Programming\C# OOP EXAM\Telecom\Telecom.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Mario\Programming\C# OOP EXAM\Telecom\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.deps.json
+C:\Mario\Programming\C# OOP EXAM\Telecom\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.runtimeconfig.json
+C:\Mario\Programming\C# OOP EXAM\Telecom\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.runtimeconfig.dev.json
+C:\Mario\Programming\C# OOP EXAM\Telecom\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.dll
+C:\Mario\Programming\C# OOP EXAM\Telecom\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.pdb
+C:\Mario\Programming\C# OOP EXAM\Telecom\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.dll
+C:\Mario\Programming\C# OOP EXAM\Telecom\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.pdb
+C:\Mario\Programming\C# OOP EXAM\Telecom\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.csprojAssemblyReference.cache
+C:\Mario\Programming\C# OOP EXAM\Telecom\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.csproj.CoreCompileInputs.cache
+C:\Mario\Programming\C# OOP EXAM\Telecom\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.AssemblyInfoInputs.cache
+C:\Mario\Programming\C# OOP EXAM\Telecom\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.AssemblyInfo.cs
+C:\Mario\Programming\C# OOP EXAM\Telecom\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.csproj.CopyComplete
+C:\Mario\Programming\C# OOP EXAM\Telecom\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.dll
+C:\Mario\Programming\C# OOP EXAM\Telecom\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.pdb
